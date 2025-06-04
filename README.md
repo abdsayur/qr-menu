@@ -31,16 +31,50 @@ Customers can browse menus with multiple product sizes, components, and pricing 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/ridani.jpeg" width="500" alt="Ridani Menu Screenshot">
-  <img src="screenshots/fahem.jpeg" width="500" alt="Fahem Menu Screenshot">
-  <img src="screenshots/baba.jpeg" width="500" alt="Baba Menu Screenshot">
-  <img src="screenshots/mango.jpeg" width="500" alt="Mango Menu Screenshot">
-  <img src="screenshots/safi.jpeg" width="500" alt="Safi Menu Screenshot">
+  <table>
+    <tr>
+      <td>
+        <a href="https://qr.algorexe.com/menu/ridians-restaurant" target="_blank">
+          <img src="screenshots/ridani.jpeg" width="300" alt="Ridani Menu Screenshot">
+        </a>
+      </td>
+      <td>
+        <a href="https://qr.algorexe.com/menu/3al-fa7em" target="_blank">
+          <img src="screenshots/fahem.jpeg" width="300" alt="Fahem Menu Screenshot">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://qr.algorexe.com/menu/mango-station" target="_blank">
+          <img src="screenshots/mango.jpeg" width="300" alt="Mango Menu Screenshot">
+        </a>
+      </td>
+      <td>
+        <a href="https://qr.algorexe.com/menu/mango-station" target="_blank">
+          <img src="screenshots/qr-mango.jpeg" width="300" alt="Mango Qr Menu Screenshot">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://qr.algorexe.com/menu/saficrepe" target="_blank">
+          <img src="screenshots/safi.jpeg" width="300" alt="Safi Crepe Menu Screenshot">
+        </a>
+      </td>
+      <td>
+        <a href="https://qr.algorexe.com/menu/babarokka" target="_blank">
+          <img src="screenshots/baba.jpeg" width="300" alt="BaBa Rokka Menu Screenshot">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
 ## 📬 Contact
 
-For more information or inquiries, feel free to reach out via [LinkedIn](#) or email.
+For more information or inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abdulrahman-derbass-aaa3021b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or [email](mailto:abdulrahmanderbass@gmail.com).
 
